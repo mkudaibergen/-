@@ -1,0 +1,17 @@
+
+.providers_img {
+    width: 630px;
+}
+
+.providers_text {
+    width: 350px;
+    height: 300px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+.providers_title {
+    font-size: 36px;
+    font-weight: 700;
+}

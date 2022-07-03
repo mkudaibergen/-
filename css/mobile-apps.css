@@ -1,0 +1,23 @@
+.apps_img {
+    width: 650px;
+}
+
+.apps_text {
+    width: 400px;
+    height: 350px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+.apps_title {
+    font-size: 36px;
+    font-weight: 700;
+}
+
+.bg_img6 {
+    position: absolute;
+    width: 80px;
+    left: 1430px;
+    top: 3100px;
+}
